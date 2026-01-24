@@ -1,0 +1,37 @@
+# Copy all talk files from Hubble to pixel:
+
+# scp -pr A*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr B*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr C*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr F*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr J*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr a*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+
+# scp -pr b*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr c*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr d*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr e*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr f*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr g*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr h*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr i*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr j*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+
+# scp -pr k*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr l*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr m*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr n*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr o*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr p*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+# scp -pr r*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+
+scp -pr s*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+scp -pr t*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+scp -pr u*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+scp -pr v*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+scp -pr w*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+scp -pr x*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+scp -pr y*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+scp -pr z*pdf raw@pixel.la.asu.edu:/Users/raw/teach/windhorsttalks/.
+
+exit

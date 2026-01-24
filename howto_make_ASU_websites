@@ -1,0 +1,33 @@
+# ==============================================================================
+#
+# TO ACCESS phyastweb CLASS PAGES FOR EVERY CLASS DO:
+#
+# cd /Users/raw/teach/windhorsttalks/   %%% Use this dir only with github
+
+# LOCAL URL: file:///Users/raw/teach/windhorsttalks/index.html
+
+# Put backup files on mirror site on Microjansky:
+
+### scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+### scp -pr -P 9022 *.pdf windhors@antelope.sese.asu.edu:/webuser/windhors/windhorsttalks.asu.edu/. 
+
+### scp -pr *.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+scp -pr -P 9022 asuphysics25_jwst.pdf windhors@antelope.sese.asu.edu:/webuser/windhors/windhorsttalks.asu.edu/. 
+
+scp -pr asuphysics25_jwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+# All Windhorst talk files will then be on:
+#
+# http://windhorsttalks.asu.edu/
+#
+# Backup files on Microjansky are on:
+#
+# http://lambda.la.asu.edu/raw/jwst/talks/
+
+# ssh raw@microjansky.la.asu.edu
+# passwd:
+#
+# cd /var/www/lambda/raw/jwst/talks/
+

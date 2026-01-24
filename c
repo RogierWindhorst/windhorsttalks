@@ -1,0 +1,2 @@
+-rw-r--r--. 1 raw users 18076300 Oct  7  2021 asuDiscoveryLecture_jwst21_RAJ_211007.pdf
+-rw-r--r--. 1 raw users 43143173 Oct  7  2021 asuDiscoveryLecture_jwst21_RAW_RAJ_211007.pdf
