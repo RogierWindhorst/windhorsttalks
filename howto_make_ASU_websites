@@ -14,13 +14,21 @@
 
 ### scp -pr *.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-### scp -pr -P 9022 index.html windhors@antelope.sese.asu.edu:/webuser/windhors/windhorsttalks.asu.edu/.
+### scp -pr -P 9022 asu_campSESE25_hstjwst.pdf windhors@antelope.sese.asu.edu:/webuser/windhors/windhorsttalks.asu.edu/. 
 
-### scp -pr -P 9022 asuphysics25_jwst.pdf windhors@antelope.sese.asu.edu:/webuser/windhors/windhorsttalks.asu.edu/.
+### scp -pr asu_campSESE25_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-scp -pr index.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/.
+### scp -pr asuphysics25_jwst_v2.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-scp -pr gmt_summary_12dec25.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+### scp -pr uiuc25_jwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+### scp -pr asuSES502grads_jwst25.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+### scp -pr azdigitalprep_5thgraders_jwst25.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+### scp -pr texas25_jwst_v3.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+scp -pr wvac26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
 # All Windhorst talk files will then be on:
 #
