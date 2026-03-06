@@ -30,6 +30,8 @@
 
 scp -pr wvac26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
+scp -pr index.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
 # All Windhorst talk files will then be on:
 #
 # http://windhorsttalks.asu.edu/
