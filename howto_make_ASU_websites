@@ -28,7 +28,9 @@
 
 ### scp -pr texas25_jwst_v3.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-scp -pr wvac26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+### scp -pr wvac26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+scp -pr ast322s26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
 scp -pr index.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
