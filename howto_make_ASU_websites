@@ -32,13 +32,15 @@
 
 ### scp -pr ast322s26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-scp -pr astro-on-tap_talk260506_RAJ.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+### scp -pr astro-on-tap_talk260506_RAJ.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-scp -pr evac26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+### scp -pr evac26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-scp -pr mirabella26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+### scp -pr mirabella26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
-scp -pr srilanka26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+### scp -pr srilanka26_hstjwst.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
+scp -pr venus26_jwstlessons.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
 scp -pr index.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
