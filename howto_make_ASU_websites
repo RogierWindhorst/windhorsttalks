@@ -42,6 +42,8 @@
 
 scp -pr venus26_jwstlessons.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
+scp -pr venus26_firststars.pdf raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
+
 scp -pr index.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/talks/
 
 # All Windhorst talk files will then be on:
